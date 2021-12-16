@@ -1,9 +1,9 @@
-.details{
-    border: 10px,black;
-    color:skyblue;
-    background-color: brown;
-    height: 660px;
-    width:1310px;
-    padding-left: 25px;
-    padding-top: 25px;
-    }
+.details {
+  border: 10px, black;
+  color: skyblue;
+  background-color: brown;
+  height: 660px;
+  width: 1310px;
+  padding-left: 25px;
+  padding-top: 25px;
+}
